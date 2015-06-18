@@ -1,0 +1,1 @@
+Sistema de Gestión Escolar hecho en Java, para el control y gestión escolar, administrativos y de finanzas en la Unidad Daniel Florencio Oleary, Ubicado en Puerto La Cruz Edo. Anzoatagui, Venezuela.
